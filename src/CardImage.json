@@ -1,0 +1,12 @@
+{
+  "image": [
+    { "src": "/img/img_1.png", "matched": false },
+    { "src": "/img/img_2.png", "matched": false },
+    { "src": "/img/img_3.png", "matched": false },
+    { "src": "/img/img_4.png", "matched": false },
+    { "src": "/img/img_5.png", "matched": false },
+    { "src": "/img/img_6.png", "matched": false },
+    { "src": "/img/img_7.png", "matched": false },
+    { "src": "/img/img_8.png", "matched": false }
+  ]
+}

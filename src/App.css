@@ -1,0 +1,35 @@
+.App {
+  max-width: 900px;
+  margin: 40px auto;
+}
+body {
+  background-color: rgb(66, 57, 57);
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+  margin: 0;
+}
+
+button {
+  background-color: none;
+  cursor: pointer;
+  padding: 7px 10px;
+  font-weight: bold;
+  font-size: 0.7em;
+  border-radius: 15px;
+}
+button:hover {
+  background: rgb(224, 96, 139);
+  color: white;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.card-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
